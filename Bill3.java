@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 // Splits a restaurant bill evenly among three diners.
-=======
->>>>>>> origin/main
 public class Bill3 {
 	public static void main(String[] args) {
 	    String name1 = args[0];
@@ -12,7 +9,3 @@ public class Bill3 {
 		System.out.println("Dear " + name3 + ", " + name2 + ", " + name1 + ":" + pay + " Shekels each"); 
 	}
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
