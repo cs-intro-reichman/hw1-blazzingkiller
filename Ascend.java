@@ -2,6 +2,7 @@
 // and prints them in increasing order.
 public class Ascend {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 	int number = Integer.parseInt(args[0]); 
 	int a = (int) (Math.random() * number); 
 	int b = (int) (Math.random() * number); 
@@ -12,5 +13,8 @@ public class Ascend {
 	System.out.println( a + " " + b + " " + c ); 
 	System.out.println( min + " " + mid + " " + max ); 
 
+=======
+		// Replace this comment with your code
+>>>>>>> origin/main
 	}
 }
